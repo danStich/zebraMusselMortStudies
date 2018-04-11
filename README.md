@@ -2,7 +2,9 @@
 R code for estimating zebra mussel mortality from Bayesian
 logistic regression models.
 
-# File descriptions
+<br>
+ 
+## File descriptions
 
 `virkon_Bayes_noIntercept.R`
   - Bayesian hierarchical models for estimating mortality
